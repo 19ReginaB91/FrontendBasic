@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f1f2f6;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+.gray1 {
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: #57606f;
+    color: #ffffff;
+    margin: 20px 0;
+    padding: 21px;
+}
+
+.gray2 {
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: #808e9b;
+    color: #ffffff;
+    margin: 20px 0;
+    padding: 21px;
+}
+
+.gray3 {
+    border: 2px solid gray;
+    border-radius: 20px;
+    background-color: #a4b0be;
+    color: #ffffff;
+    margin: 20px 0;
+    padding: 21px;
+}
+
+h5 {
+    text-align: center;
+    border-style: outset;
+    border-radius: 20px;
+}
